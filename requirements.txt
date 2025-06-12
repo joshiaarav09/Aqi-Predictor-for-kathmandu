@@ -5,5 +5,5 @@ scikit-learn
 joblib
 matplotlib
 seaborn
-tensorflow
+tensorflow-cpu==2.13.0
 keras==2.13.1
