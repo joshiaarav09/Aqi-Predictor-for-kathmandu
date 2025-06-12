@@ -6,3 +6,4 @@ joblib
 matplotlib
 seaborn
 tensorflow
+keras==2.13.1
