@@ -5,7 +5,7 @@ scikit-learn
 joblib
 matplotlib
 seaborn
-tensorflow-cpu==2.13.0
+
 
 tensorflow==2.12.0
 
