@@ -1,12 +1,10 @@
 streamlit
+tensorflow==2.12.0
+keras==2.12.0
+h5py
 pandas
 numpy
 scikit-learn
-joblib
 matplotlib
 seaborn
-
-tensorflow==2.12.0
-keras==2.12.0
-
-
+joblib
