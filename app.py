@@ -5,7 +5,8 @@ import joblib
 import json
 import matplotlib.pyplot as plt
 import seaborn as sns
-from tensorflow.keras.models import load_model
+import keras
+from keras.models import load_model
 
 # Use seaborn theme
 sns.set_theme(style="whitegrid")
