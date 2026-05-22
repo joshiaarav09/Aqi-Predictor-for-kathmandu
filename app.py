@@ -1,3 +1,6 @@
+import os
+os.environ["KERAS_BACKEND"] = "jax"
+
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -5,7 +8,7 @@ import joblib
 import json
 import matplotlib.pyplot as plt
 import seaborn as sns
-from tf_keras.models import load_model
+from keras.models import load_model
 
 # Use seaborn theme
 sns.set_theme(style="whitegrid")
