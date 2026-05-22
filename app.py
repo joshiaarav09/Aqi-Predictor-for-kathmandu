@@ -5,8 +5,6 @@ import joblib
 import json
 import matplotlib.pyplot as plt
 import seaborn as sns
-import keras
-from keras.models import load_model
 from tf_keras.models import load_model
 
 # Use seaborn theme
