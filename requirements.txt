@@ -1,7 +1,8 @@
 streamlit
-tf-keras
-pandas
+keras
+jax
 numpy
+pandas
 scikit-learn
 matplotlib
 seaborn
